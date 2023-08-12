@@ -1,0 +1,13 @@
+.register-layout {
+    height: 100%;
+}
+
+.register-img {
+    width: 300px;
+    margin-bottom: 40px;
+}
+
+.register-form {
+    max-width: 600px;
+    width: 100%;
+}
